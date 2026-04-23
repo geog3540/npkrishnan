@@ -1,2 +1,2 @@
-# This is the map from Assignment 5 (bivariate mapping)
+# Geovisualization Profile
 geog3540/npkrishnan - Krishnan, Nikhil
